@@ -58,7 +58,7 @@ public class PersonEmployee {
         System.out.println("---------------");
 
         // Employee
-        Employee e = new Employee("Tanushree", 101, 50000.0);
+        Employee e = new Employee("Tanus", 102, 50000.0);
         e.displayEmployeeDetails();
         e.displayAge("2000-06-12");
     }
